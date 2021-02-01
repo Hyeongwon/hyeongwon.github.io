@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "게임 이론"
 date:   2021-01-31 16:39:22 +0900
 categories: jekyll update
 ---
