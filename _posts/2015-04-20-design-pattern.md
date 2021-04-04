@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "디자인 패턴은 왜 쓸까?"
-date:   2021-03-07 16:00:59
+date:   2015-04-20 16:00:59
 author: 변형원
 categories: design-pattern
 cover:  "/assets/instacode.png"
@@ -43,9 +43,7 @@ cover:  "/assets/instacode.png"
 
 gof 의 디자인 패턴에서 보면
 
-여담이지만, gof 사람 이름이 아니라 (gang of four) 에릭 감마, 존 블리시데스, 리차드 헬름, 랄프 존슨 4명 이라서 gof 라고한다.
-
-영미권에서 4인방을 저런식으로 표현하는구나. 잡 지식이 늘었다.
+TODO: 디자인 패턴은 뭐뭠 라고 정의 하
 
 
 
