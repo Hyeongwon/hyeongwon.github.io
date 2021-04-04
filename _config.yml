@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "https://hyeongwon.github.io/"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -14,6 +14,8 @@ linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+theme: jekyll-theme-clean-blog
 
 # Build settings
 markdown:           kramdown
