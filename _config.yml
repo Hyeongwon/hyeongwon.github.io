@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              bhw0506@gmail.com
 description:        공부용 블로그
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://hyeongwon.github.io"
 
 # Social Profiles
